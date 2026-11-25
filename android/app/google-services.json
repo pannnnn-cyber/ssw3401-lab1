@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333658273976",
+    "project_id": "ssw3401-lab1-panziheng",
+    "storage_bucket": "ssw3401-lab1-panziheng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333658273976:android:94576fbcf8ab724e005c4d",
+        "android_client_info": {
+          "package_name": "com.example.ssw3401_lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmuGPoaXHgEcX-QvVUKgw7A193bCJ6gFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
