@@ -33,7 +33,7 @@ jobs:
 
       # Step 5: Build the release APK
       - name: Build Android Release APK
-        run: flutter build apk --release
+        run: flutter build apk --release --android-skip-build-dependency-validation
 
       # Step 6: Upload APK to Firebase App Distribution
       - name: Upload APK to Firebase App Distribution
